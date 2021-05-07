@@ -25,6 +25,11 @@ In the second example, all factors of 6 are 1, 2, 3, 6.
 
 
 */
+
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
