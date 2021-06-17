@@ -60,8 +60,6 @@ int main() {
 	    }else {
 	        cout<<b;
 	    }
-	}else {
-	    cout<<a;
 	}
 	
 	return 0;
